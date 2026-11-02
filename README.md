@@ -30,3 +30,9 @@ Tasks, appearance, companion, rewards, and game progress are stored in this brow
 - **Phase 3 — Coordinate a household:** optional household members, shared chores, and family coordination with clear consent and control over what is shared.
 
 Later phases are direction, not features in this release. The app is supportive organization, not clinical care or emergency support. If there is immediate danger, contact local emergency or crisis services.
+
+## Fern & Cedar concept prototype
+
+The [Fern & Cedar creative reuse and materials rescue concept](http://localhost:4173/fern-cedar/) is a separate static prototype for a proposed Bellingham / Whatcom County business. It includes local positioning, organizational options, and a launch checklist. The prototype is not an operating store, nonprofit, or active collection program.
+
+The checklist stores progress in the browser's local storage on this device. The Fern & Cedar prototype has no backend, donation intake, checkout, or contact form. Its organizational guidance is not legal or tax advice, and its linked resources are starting points rather than evidence of local demand.
